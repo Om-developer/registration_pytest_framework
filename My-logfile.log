@@ -1,0 +1,19 @@
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: entered into website successfully
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: user id entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: password entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: password entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: name entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: last name entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: email entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: phone entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: adress1 entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: address2 entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: city entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: state entered
+31/01/2023 04:02:23 PM: INFO: test_registration: test_001: zip code entered
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: country entered
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: drop down selected 
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: drop down 2 selected 
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: checkbox tick 
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: checkbox tick 
+31/01/2023 04:02:24 PM: INFO: test_registration: test_001: save button click 
